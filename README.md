@@ -36,4 +36,4 @@ What did you learn from the project? Technology? Pattern?
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Questions? I would love to connect!
-Email - [Scottbromander@gmail.com](scottbromander@gmail.com)
+Email - [Scottbromander@gmail.com](mailto:scottbromander@gmail.com)
